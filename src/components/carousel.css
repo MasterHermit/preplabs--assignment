@@ -1,0 +1,18 @@
+.carousel__box {
+    width: 80%;
+    margin: 2% 0 0 15%;
+}
+
+.carousel__item__box {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+
+.carousel__item {
+    width: 1300px;
+    height: 500px;
+}
+
+
+
